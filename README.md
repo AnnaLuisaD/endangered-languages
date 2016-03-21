@@ -108,6 +108,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [Template for Multilayered Language Learning Resources] (https://github.com/eddersko/web-template) This is a web-based template that may be used to present language learning resources to aid language revitalization efforts. It includes a talking dictionary, and a phrasicon, containing sentences and phrases.
 * [The Yurok Langauge Project](http://linguistics.berkeley.edu/~yurok/web/search.php)
 * [Yami Dictionary](http://yamibow.cs.pu.edu.tw/index_en.htm)
+* [Talking Dictionaries](http://talkingdictionary.swarthmore.edu/) by Living Tongues Institute for Endangered Languages
 
 ##Software
 * [accentuate.us](https://sourceforge.net/p/lingala/code/HEAD/tree/) a.k.a. "charlifter". Statistical Unicodification of plain text for many languages
